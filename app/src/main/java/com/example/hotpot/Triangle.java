@@ -1,4 +1,5 @@
 package com.example.hotpot;
 
-public class Triangle {
+public class Triangle extends Shape{
+    String color = "green";
 }
