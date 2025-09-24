@@ -1,4 +1,4 @@
 package com.example.hotpot;
 
-public class Rectangle {
+public class Rectangle extends Shape {
 }
