@@ -1,4 +1,5 @@
 package com.example.hotpot;
 
-public class Square {
+public class Square extends Shape {
+    String color = "red";
 }
