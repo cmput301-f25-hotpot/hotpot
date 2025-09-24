@@ -1,4 +1,4 @@
 package com.example.hotpot;
 
-public class Heart {
+public class Heart extends Shape{
 }
