@@ -1,3 +1,2 @@
 # hotpot
-Name: Sejal Liju
-CCID: sejallij
+Name: Sejal Liju, CCID: sejallij
